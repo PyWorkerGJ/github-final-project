@@ -10,7 +10,7 @@ By participating in this project, you agree to follow our [Code of Conduct](CODE
 
 ## Ways to Contribute
 
-- **Report bugs**: open an [issue](https://github.com/PyWorkerGJ/simple-interest-calculator/issues) describing the problem, the steps to reproduce it, and the expected vs. actual result.
+- **Report bugs**: open an [issue](https://github.com/PyWorkerGJ/github-final-project/issues) describing the problem, the steps to reproduce it, and the expected vs. actual result.
 - **Fix bugs**: look for open issues and submit a pull request with a fix.
 - **Improve documentation**: corrections, clearer explanations and new examples are always appreciated.
 - **Suggest enhancements**: open an issue describing the feature and why it would be useful.
